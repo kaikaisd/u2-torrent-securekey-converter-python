@@ -1,6 +1,6 @@
 # u2-torrent-securekey-converter-python
 
-# This project will not update anymore, if you have interest , welcome to fork this and make it more useful
+# This project will not update anymore, if you have interest , welcome to fork this and make it usefully
 
 # IMPORTANT :
 ### This project has high risk on you run it to change torrent without closed the rtorrent
