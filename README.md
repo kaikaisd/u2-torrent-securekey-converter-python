@@ -9,6 +9,6 @@
 
 # Requirement :
 Python >= 3.6 (Due to print(f"something") is not work in Python3.5 and older, it is recommanded you upgrade your python to 3.6 or higher)
-urllib
+urllib and
 requests
 
